@@ -2,4 +2,4 @@
 Learning Java and Python
                                                                                                   
 # About Me
-!Discord:tam#5245![IMG_20211124_153308](https://user-images.githubusercontent.com/88804486/144917398-770ed4a2-49d1-49c5-80a8-97f0fb1ec1ae.png)
+Discord: tam#5245

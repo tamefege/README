@@ -1,1 +1,3 @@
-# Hi, I'm Tam! https://user-images.githubusercontent.com/95560572/144756524-bad20ed8-38ca-4071-88a2-62b0ad9958cc.gif
+# Hi, I'm Tam! 
+Learning Java and Python![image](https://user-images.githubusercontent.com/88804486/144916907-0962214b-058a-4284-a9cc-ea036c341c61.png)
+
